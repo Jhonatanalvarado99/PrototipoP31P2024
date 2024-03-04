@@ -29,11 +29,14 @@ public class Gestión_De_Facultades {
             System.out.print("Alumno " + (i + 1) + ": ");
             alumnos[i] = scanner.nextLine();
     
-    
 }
 
-
-
+     for (int parcial = 0; parcial < 5; parcial++){
+            for (int alumno = 0; alumno < 5; alumno++){
+                int nota = random.nextInt(20);
+                votos[nota][parcial]++; 
+            }
+        }   
 }
      
 }

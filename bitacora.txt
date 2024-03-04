@@ -1,0 +1,17 @@
+commit a8ed463b71d7b2261083046b44c6625223205ba4
+Author: Jhonatan Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Mon Mar 4 10:16:06 2024 -0600
+
+    creación de primera matriz
+
+commit 28d8aabf7677b8e643bc181d123bc2ac64fef277
+Author: Jhonatan Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Mon Mar 4 10:03:09 2024 -0600
+
+    creación de prototipo de parcial
+
+commit 7c7f56cd1d2903d3d2371bb3932897a132d5e286
+Author: Jhonatan Alvarado <123187692+Jhonatanalvarado99@users.noreply.github.com>
+Date:   Mon Mar 4 10:00:00 2024 -0600
+
+    Initial commit
